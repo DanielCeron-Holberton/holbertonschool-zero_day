@@ -1,1 +1,1 @@
-** Description note for the README File **
+** Best steps to learn git commands **
